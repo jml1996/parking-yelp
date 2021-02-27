@@ -1,0 +1,3 @@
+const yelpApiKey = "zVA4Ar1ezsHErhfy11nuwJ_3G9Ckg05wxnJOmrKcH386bgpyB8DygsqfgU59sXPSbx-8gEsQXsjeXbXDxdgpmmaMckTHRHZE1NoGdSRQV6ZQSys46XCXm-OmlKs5YHYx"
+
+export default yelpApiKey
