@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Yelp Parking Lot Search by Location
+
+##
+
+## To use
+1. git clone 
+2. Index into project directory
+3. `npm i`
+4. `npm start`
+
+Voila!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
